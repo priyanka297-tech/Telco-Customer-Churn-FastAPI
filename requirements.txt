@@ -1,0 +1,13 @@
+# Streamlit app
+streamlit
+streamlit-option-menu
+plotly
+pandas
+numpy
+scikit-learn
+
+# FastAPI backend
+fastapi
+uvicorn[standard]
+pydantic>=2
+requests
